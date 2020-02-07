@@ -33,7 +33,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.LinkedList">
+  <component name="RunManager" selected="Python.BinarySearchTree">
+    <configuration name="BinarySearchTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Surja-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data structures/BinarySearchTree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="LinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Surja-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,34 +139,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="randomIntStr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Surja-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Office classes assignments" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Office classes assignments/randomIntStr.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BinarySearchTree" />
         <item itemvalue="Python.LinkedList" />
         <item itemvalue="Python.ascendingWith2nos" />
         <item itemvalue="Python.ascendingBadApproach" />
         <item itemvalue="Python.circularPrinting" />
-        <item itemvalue="Python.randomIntStr" />
       </list>
     </recent_temporary>
   </component>
@@ -183,22 +183,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578841837026" />
-    <state width="1515" height="261" key="GridCell.Tab.0.bottom" timestamp="1580971882631">
+    <state width="1515" height="231" key="GridCell.Tab.0.bottom" timestamp="1581067482828">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580971882631" />
-    <state width="1515" height="261" key="GridCell.Tab.0.center" timestamp="1580971882631">
+    <state width="1515" height="231" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581067482828" />
+    <state width="1515" height="231" key="GridCell.Tab.0.center" timestamp="1581067482827">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580971882631" />
-    <state width="1515" height="261" key="GridCell.Tab.0.left" timestamp="1580971882631">
+    <state width="1515" height="231" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581067482827" />
+    <state width="1515" height="231" key="GridCell.Tab.0.left" timestamp="1581067482827">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580971882631" />
-    <state width="1515" height="261" key="GridCell.Tab.0.right" timestamp="1580971882631">
+    <state width="1515" height="231" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581067482827" />
+    <state width="1515" height="231" key="GridCell.Tab.0.right" timestamp="1581067482828">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580971882631" />
+    <state width="1515" height="231" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581067482828" />
     <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1580971882631">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -219,10 +219,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578841842444" />
-    <state x="383" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1580959600563">
+    <state x="383" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1581057595908">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="383" y="249" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580959600563" />
+    <state x="383" y="249" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581057595908" />
     <state x="409" y="291" key="com.intellij.ide.util.TipDialog/67.27.1373.873@67.27.1373.873" timestamp="1578652765143" />
     <state x="341" y="149" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1580967340900">
       <screen x="0" y="0" width="1536" height="824" />
