@@ -30,6 +30,17 @@ def printInorder(root):
         printInorder(root.right)
 
 
+
+
+
+a = [8, 3, 10, 1, 6, 14, 13, 7, 4]
+root_val = Node(a[0])
+for x in a:
+    insert(root_val, Node(x))
+
+printInorder(root_val)
+
+
 def same_height_nodes(root):
     list_of_nodes, k, list_of_nodes_temp = [root], 1, []
     if root:
@@ -48,15 +59,8 @@ def same_height_nodes(root):
                 list_of_nodes_temp.append(node.right)
                 k = 1
         print()
-        list_of_nodes=list_of_nodes_temp.copy()
+        list_of_nodes = list_of_nodes_temp.copy()
         list_of_nodes_temp.clear()
 
-
-a = [8,3,10,1,6,14,13,7,4]
-root_val = Node(a[0])
-for x in a:
-    insert(root_val, Node(x))
-
-printInorder(root_val)
 
 same_height_nodes(root_val)
