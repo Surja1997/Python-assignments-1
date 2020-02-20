@@ -30,9 +30,6 @@ def printInorder(root):
         printInorder(root.right)
 
 
-
-
-
 a = [8, 3, 10, 1, 6, 14, 13, 7, 4]
 root_val = Node(a[0])
 for x in a:
@@ -64,3 +61,5 @@ def same_height_nodes(root):
 
 
 same_height_nodes(root_val)
+
+
